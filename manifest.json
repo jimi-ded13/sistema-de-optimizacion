@@ -1,0 +1,23 @@
+{
+    "name": "Sistema de Organización de Productos",
+    "short_name": "SOP",
+    "description": "Aplicación para la gestión de productos alimenticios",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#3a8697",
+    "theme_color": "#3a8697",
+    "icons": [
+  {
+    "src": "/images/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/images/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
+  }
+  
